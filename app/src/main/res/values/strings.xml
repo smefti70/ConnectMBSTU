@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Connect MBSTU</string>
+    <string name="app_title">Connect</string>
+    <string name="Email_Hint">Email Address</string>
+    <string name="Pass_Hint">Password</string>
+    <string name="Name_Hint">Name</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Sign_in">Welcome\nBack</string>
+    <string name="loginBtn_text">Sign In</string>
+    <string name="gSignIn_text">Sign In With Google</string>
+    <string name="regUser_text">Already have an account</string>
+    <string name="joinBtn_text">Join/Create</string>
+    <string name="shareBtn_text">Share</string>
+    <string name="room_code">Room Code</string>
+</resources>
